@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @killrebeest
 - 👀 I’m interested in coding anything
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me, discord, killrebeest#4357
+- 📫 How to reach me, discord, killrebeest#1001
