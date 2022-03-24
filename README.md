@@ -1,4 +1,5 @@
 # Hi there, I'm killrebeest <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+![Profile Views](https://komarev.com/ghpvc/?username=killrebeest&color=brightgreen)
 
 ## I'm a Developer I guess
 
