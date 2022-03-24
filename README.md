@@ -3,7 +3,7 @@
 ## I'm a Developer I guess
 
 - 🌱 I am experienced in JavaScript, Java, SQL, Python, HTML, CSS and I am currently learning C++
-- 🏆 2022 Goals: Creating more projects and getting my [discord bot!](https://discord.gg/adfhvTas7u) verified
+- 🏆 2022 Goals: Creating more projects and getting my [discord bot](https://discord.gg/adfhvTas7u) verified
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/471009727602491405)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/killrebeest)
