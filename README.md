@@ -22,13 +22,13 @@
 [![SQL](https://img.shields.io/badge/SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white)](https://www.postgresql.org)
 
 ### OS and Cloud Services
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)](https://android.com)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)](https://apple.com)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
-[![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)](https://heroku.com)
+[![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)](https://aws.amazon.com)
 [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
 
 ### Browsers and IDE
-[![Opera GX](https://img.shields.io/badge/Opera_GX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://google.com/chrome/)
+[![Opera GX](https://img.shields.io/badge/Opera_GX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
