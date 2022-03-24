@@ -34,6 +34,6 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=killrebeest&theme=onedark&title=Joined2021,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=killrebeest&title=Joined2021,Commit,Followers,Repositories,Stars,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![killrebeest's GitHub stats](https://github-readme-stats.vercel.app/api?username=killrebeest&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killrebeest)](https://github.com/anuraghazra/github-readme-stats)
